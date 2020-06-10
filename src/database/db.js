@@ -11,7 +11,7 @@ module.exports = db
 // utilizar o objeto de banco de dados, para nosssas operações
 
 db.serialize(() => {
-/*LINHAS DE CRIAÇÃO, BUSCA, DELEÇÃO E INSERSÃO DE DADOS POR ESTARAREM SENDO UTILIZADAS NO ARQUIVO CREATE-POINT.JS/
+/*LINHAS DE CRIAÇÃO, BUSCA, DELEÇÃO E INSERSÃO DE DADOS POR ESTARAREM SENDO UTILIZADAS NO ARQUIVO CREATE-POINT.JS*/
     // com comandos SQL eu vou: 
 
     // 1 Criar uma tabela
