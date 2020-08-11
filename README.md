@@ -1,4 +1,4 @@
 # NLW
-Next Level Week
+## Next Level Week
 
-Uploading the files were created during the ROCKETSET class.
+* Uploading the files were created during the ROCKETSET class.
